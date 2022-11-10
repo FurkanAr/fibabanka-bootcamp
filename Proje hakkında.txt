@@ -1,0 +1,5 @@
+Öncelikle bana bu eğitim ve işe alım sürecini sağladığınız için teşekkür ediyorum.
+Proje 3 tane mikroservisten oluşuyordu. Inventory projesini tamamen, shopping projesinin ise %70 civarında yapabildim.
+Shopping projesinde kart ve kart ürünlerini birbirine eşleştirmekte sorun yaşadım o yüzden projeyi tamamlayamadım.
+Shopping servisinden gerekli kart - kart ürün bilgilerini alamadığım için commerce tarafından hiçbir şey yapamadım. 
+Tekrar verdiğiniz fırsat için teşekkürler. 
